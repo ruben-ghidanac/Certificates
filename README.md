@@ -1,4 +1,6 @@
-Hi there 👋
-I'm Ruben, I'm a person with a teamwork spirit highly accentuated, developed in dental laboratory for more than 4 years, where the teamwork was, and it is, a must.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-ghidanac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Likewise, I love the digital field, data manipulation and logical thinking state, that brings me into data science.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruben-ghidanac&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruben_ghidanac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
